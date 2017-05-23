@@ -30,7 +30,7 @@ Required components:
 
 Software
 -----------------
-To send mode switch commands (key '1' to '4') you can use the serial monitor in the Arduino IDE or any Bluetooth mobile application (like Arduino Bluetooth Control in Google Play Store).
+To send mode switch commands (key '1' to '4') you can use the serial monitor in the Arduino IDE or any Bluetooth mobile application (like [Arduino Bluetooth Control](https://play.google.com/store/apps/details?id=com.broxcode.arduinobluetoothfree) in Google Play Store).
 
 3D model
 -----------------
